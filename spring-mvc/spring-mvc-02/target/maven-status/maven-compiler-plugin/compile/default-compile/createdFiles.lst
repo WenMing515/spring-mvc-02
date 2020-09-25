@@ -1,0 +1,5 @@
+cn\wm\mapper\UserMapper.class
+cn\wm\service\impl\UserServiceImpl.class
+cn\wm\service\UserService.class
+cn\wm\controller\UserServlet.class
+cn\wm\bean\User.class
